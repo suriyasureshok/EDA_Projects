@@ -1,9 +1,9 @@
 # 🚀 Data Analysis Portfolio  
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/your-username/your-repository-name?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/your-repository-name?style=social)
+![GitHub Repo Stars](https://img.shields.io/github/stars/your-username/EDA_Projects?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/EDA_Projects?style=social)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-lightblue)
+![SQL](https://img.shields.io/badge/SQL-lightblue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 Welcome to my interactive data analysis portfolio! This repository showcases my projects where I explore datasets, uncover insights, and build predictive models. It's all about turning data into stories 📊✨.
@@ -65,8 +65,8 @@ Hi, I'm **Suriya Sureshkumar**, a data analyst passionate about transforming raw
 
 ## 📬 Contact
 📧 **Email**: [240171.ad@rmkec.ac.in](mailto:your.email@example.com)  
-🌐 **Portfolio**: [suriyasureshkumarportfolio.com/INDEX.html](#)  
-💼 **LinkedIn**: [linkedin.com/in/suriya-sureshkumar-653b48328](#)  
+🌐 **Portfolio**: [Suriya Sureshkumar's portfolio](suriyasureshkumarportfolio.com/INDEX.html)  
+💼 **LinkedIn**: [Suriya Sureshkumar](linkedin.com/in/suriya-sureshkumar-653b48328)  
 
 ---
 
