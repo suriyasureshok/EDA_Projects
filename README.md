@@ -1,29 +1,72 @@
-<h1 align="center">Hi 👋, I'm Suriya Sureshkumar</h1>
-<h3 align="center">An energetic Data Analyst from India</h3>
+# 🚀 Data Analysis Portfolio  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suriyasureshok&label=Profile%20views&color=0e75b6&style=flat" alt="suriyasureshok" /> </p>
+![GitHub Repo Stars](https://img.shields.io/github/stars/your-username/your-repository-name?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/your-repository-name?style=social)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-lightblue)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suriyasureshok" alt="suriyasureshok" /></a> </p>
+Welcome to my interactive data analysis portfolio! This repository showcases my projects where I explore datasets, uncover insights, and build predictive models. It's all about turning data into stories 📊✨.
 
-- 🔭 I’m currently working on **Financial Advisor Chatbot**
+---
 
-- 🌱 I’m currently learning **Power BI**
+## 📚 Table of Contents
+- [🧑‍💻 About Me](#about-me)
+- [📂 Featured Projects](#featured-projects)
+- [💡 Skills](#skills)
+- [🛠️ Tools and Technologies](#tools-and-technologies)
+- [📬 Contact](#contact)
 
-- 💬 Ask me about **Data analytics**
+---
 
-- 📫 How to reach me **240171.ad@rmkec.ac.in**
+## 🧑‍💻 About Me
+Hi, I'm **Suriya Sureshkumar**, a data analyst passionate about transforming raw data into actionable insights. I enjoy:
+- Exploring datasets and finding hidden patterns 🔍.  
+- Visualizing data to tell compelling stories 🎨.  
+- Building predictive models to solve real-world problems 🤖.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suriya sureshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suriya sureshkumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/suriyas24ad0171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suriyas24ad0171" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 📂 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suriyasureshok&show_icons=true&locale=en&layout=compact" alt="suriyasureshok" /></p>
+<details>
+<summary><b>1. 📈 EDA on Diseases of Chennai City (Sample Data)</b></summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suriyasureshok&show_icons=true&locale=en" alt="suriyasureshok" /></p>
+**Description**:  
+**Skills Demonstrated**: Analytical Skills, Data Visualization,
+**Tools Used**: Python, Pandas, Matplotlib, Statsmodels.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suriyasureshok&" alt="suriyasureshok" /></p>
+**Highlights**:
+-Found the patterns of disaese occcurence in human.
+-Found preventions on it.
+
+[🔗 View Project](#)
+
+---
+
+## 💡 Skills
+🎯 **Data Manipulation**: Cleaning, transforming, and preprocessing data.  
+📊 **Visualization**: Creating compelling visuals using Python libraries.  
+📈 **Statistical Analysis**: Hypothesis testing, A/B testing, regression models.  
+🤖 **Machine Learning**: Building predictive and clustering models.  
+
+---
+
+## 🛠️ Tools and Technologies
+| **Category**       | **Tools**                             |
+|---------------------|---------------------------------------|
+| Programming         | Python, SQL                          |
+| Libraries/Frameworks| Pandas, NumPy, Scikit-learn, Seaborn |
+| Databases           | MySQL                               |
+| Visualization Tools | Power BI                            |
+| Other Tools         | Excel                               |
+
+---
+
+## 📬 Contact
+📧 **Email**: [240171.ad@rmkec.ac.in](mailto:your.email@example.com)  
+🌐 **Portfolio**: [suriyasureshkumarportfolio.com/INDEX.html](#)  
+💼 **LinkedIn**: [linkedin.com/in/suriya-sureshkumar-653b48328](#)  
+
+---
+
